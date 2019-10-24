@@ -1,2 +1,3 @@
 # Linux
-Linux Scripts for various tasks
+Linux Scripts for VFIO on Arch/Manjaro and Debian/Ubunu based systems. Still updating
+
